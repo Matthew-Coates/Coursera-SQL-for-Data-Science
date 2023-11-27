@@ -5,15 +5,16 @@
 
 ## Skills Acquired and Demonstrated
 
-### Module Overview
- - Define SQL and discuss how SQL differs from other computer languages
- - Compare and contrast the role of a DBA and a Data Scientist
- - Explain the differences between one-to-one, one-to-many and many-to-many relationships
- - Read, interpret, and understand ER Diagrams
- - Comment against code
- - Learn basic SQL syntax and rules
-
 ### Module 1 (of 4) Getting Started and Selecting & Retrieving Data with SQL
+
+#### Module Overview
+Define SQL and discuss how SQL differs from other computer languages
+Compare and contrast the role of a DBA and a Data Scientist
+Explain the differences between one-to-one, one-to-many and many-to-many relationships
+Read, interpret, and understand ER Diagrams
+Comment against code
+Learn basic SQL syntax and rules
+
  - What is SQL
  - Data Modelling & ER Diagrams
  - Retrieving Data
