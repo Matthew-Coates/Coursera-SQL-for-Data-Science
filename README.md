@@ -10,6 +10,7 @@
 
 #### Module Overview
 Distinguish between use of SQL for data science applications and SQL for more common data management operations.
+
 Use an Entity Relationship diagram, describing the data elements, their relationships, and inter-dependencies and determine if the existent data is sufficient to address a business question.
 Retrieve one or more columns of data from a table that relates to the research topic.
 Identify a subset of data needed from a column or set of columns and write a SQL query to limit to those results.
