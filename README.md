@@ -6,7 +6,7 @@
 ## Skills Acquired and Demonstrated
 
 
-### Module 1 (of 4) Getting Started and Selecting & Retrieving Data with SQL
+## Module 1 (of 4) Getting Started and Selecting & Retrieving Data with SQL
 
 #### Module Objectives
 Distinguish between use of SQL for data science applications and SQL for more common data management operations.
@@ -25,7 +25,7 @@ Add effective comments in your queries so that you can remember what you're doin
 #
 
 
-### Module 2 (of 4) Filtering, Sorting and Calculating Data with SQL
+## Module 2 (of 4) Filtering, Sorting and Calculating Data with SQL
 
 #### Module Overview
 Compare analytics tool and CPU time performance between a filtered and unfiltered dataset.
@@ -48,7 +48,7 @@ Summarize data according to one or more criterion using GROUP BY and HAVING clau
 #
 
 
-### Module 3 (of 4) Subqueries and Joins in SQL
+## Module 3 (of 4) Subqueries and Joins in SQL
 
 #### Module Overview
 Retrieve data from multiple tables using subqueries.
@@ -69,7 +69,7 @@ Create an analysis table from multiple queries using the UNION operator.
 #
 
 
-### Module 4 (of 4) Modifying and Analysing Data with SQL
+## Module 4 (of 4) Modifying and Analysing Data with SQL
 
 #### Module Overview
 Manipulate strings, dates, and numeric data using functions to integrate data from different sources into fields with the correct format for analysis.
