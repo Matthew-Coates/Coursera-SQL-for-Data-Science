@@ -5,7 +5,6 @@
 
 ## Skills Acquired and Demonstrated
 
-#
 
 ### Module 1 (of 4) Getting Started and Selecting & Retrieving Data with SQL
 
@@ -18,6 +17,7 @@ Define SQL and discuss how SQL differs from other computer languages. Compare an
  - Creating Tables
  - Commenting on SQL Code
  - Module 1 Coding Assignment
+#
 
 
 ### Module 2 (of 4) Filtering, Sorting and Calculating Data with SQL
@@ -35,6 +35,7 @@ Application of basic math operators and aggregation functions like AVERAGE, COUN
  - Aggregate Functions
  - Grouping Data
  - Module 2 Coding Assignment
+#
 
 
 ### Module 3 (of 4) Subqueries and Joins in SQL
@@ -54,6 +55,7 @@ Use of aliases and pre-qualifiers.
  - Advanced Joins: Left, Right and Full Outer
  - Unions
  - Module 3 Coding Assignment
+#
 
 
 ### Module 4 (of 4) Modifying and Analysing Data with SQL
@@ -72,4 +74,4 @@ Data governance and profiling.
  - Using SQL for Data Science Part 1 and 2
  - Module 4 Coding Questions
  - Data Scientist Role Play: Profiling and Analysing the Yelp Data Set
-
+#
