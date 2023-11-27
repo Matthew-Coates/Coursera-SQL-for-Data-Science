@@ -5,6 +5,7 @@
 
 ## Skills Acquired and Demonstrated
 
+#
 
 ### Module 1 (of 4) Getting Started and Selecting & Retrieving Data with SQL
 
