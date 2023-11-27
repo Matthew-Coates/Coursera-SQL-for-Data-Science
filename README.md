@@ -9,7 +9,12 @@
 ### Module 1 (of 4) Getting Started and Selecting & Retrieving Data with SQL
 
 #### Module Overview
-Define SQL and discuss how SQL differs from other computer languages. Compare and contrast the role of a DBA and a Data Scientist. Explain the differences between one-to-one, one-to-many and many-to-many relationships. Read, interpret, and understand ER Diagrams. Comment against code. Learn basic SQL syntax and rules.
+Distinguish between use of SQL for data science applications and SQL for more common data management operations.
+Use an Entity Relationship diagram, describing the data elements, their relationships, and inter-dependencies and determine if the existent data is sufficient to address a business question.
+Retrieve one or more columns of data from a table that relates to the research topic.
+Identify a subset of data needed from a column or set of columns and write a SQL query to limit to those results.
+Create an analysis environment and use INSERT to put data into a table.
+Add effective comments in your queries so that one, you can remember what you're doing, and two, so others can review your work.
 
  - What is SQL
  - Data Modelling & ER Diagrams
